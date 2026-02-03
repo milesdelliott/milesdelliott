@@ -6,7 +6,7 @@ interfaces, and publisher tools running on 60,000+ sites.
 I care about making complex data accessible, writing clean code, and
 shipping work that delivers results.
 
-## [bird.pictures](https://bird.pictures)
+## [Bird.Pictures](https://bird.pictures)
 
 A full-stack photography platform I built to organize my bird photography
 and experiment with modern web tech.
