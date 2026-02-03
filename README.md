@@ -3,7 +3,7 @@ visualization tools and web applications. I have a Graphic Design
 background and six years in ad tech—creating dashboards, analytics
 interfaces, and publisher tools running on 60,000+ sites.
 
-I user experience, writing clean code, and
+I'm passionate about user experience, writing clean code, and
 shipping work that delivers results.
 
 ## [Bird.Pictures](https://bird.pictures)
