@@ -1,7 +1,7 @@
 Full-stack engineer with 9+ years of experience building data
 visualization tools and web applications, rooted in a graphic design
 background. Six years in ad tech creating dashboards, analytics
-interfaces, and publisher tools running on 40,000+ sites, increasing user retention and value across 10+ billion sessions.
+interfaces, and publisher tools running on 40,000+ sites, increasing user retention and value across 10+ billion sessions per year.
 
 I'm passionate about user experience, writing clean code, and
 shipping work that delivers results.
