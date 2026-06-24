@@ -12,7 +12,6 @@ SvelteKit, TypeScript, and D3.js backed by Prisma and PostgreSQL running in the 
 
 ## At Work
 
-Currently at **Mediavine** building application dashboards, pubilsher tools,
-privacy compliance tools (TCF/GDPR), and WordPress integrations.
-Previously at **NC State University** building web tools for 40,000+ campus
-users ([See my Talk on bringing the WordPress Block Editor to Campus at WordCamp Raleigh 2018](https://wordpress.tv/2018/06/20/lauren-etheridge-and-miles-elliott-the-blockenspiel-tackling-gutenberg-development/)).
+Currently at **ButterflyMX**. Previously at **Mediavine** building application dashboards, pubilsher tools, privacy compliance tools (TCF/GDPR), and WordPress integrations.
+Before that at **NC State University** building web tools for 40,000+ campus
+users.
